@@ -1,3 +1,7 @@
+> [!WARNING]
+> This project has been archived since this is not the newest version of dpip.lol. The new repository is [douxxtech/dpip-studio](https://github.com/douxxtech/dpip-studio)
+
+
 <div align="center">
 
 <a href="https://dpip.lol" style="display: block; text-align: center;">
@@ -17,7 +21,7 @@
 <br/>
 
 ## Introduction
-DPIP.lol (Accronym for DouxxPI Private domains) is a general purposes domain used by douxxpi / douxxu (douxx.tech)
+DPIP.lol (Accronym for DouxxPI Private domains) is a general purposes domain used by douxxpi / douxxtech (douxx.tech)
 This repo contains the landing page and the mail api. Feel free to make PRs to improve it !
 
 ## Deployment
